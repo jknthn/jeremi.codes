@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jeremi Kaczmarczyk
+N:Kaczmarczyk;Jeremi;;;
+TITLE:Software engineer
+EMAIL;TYPE=INTERNET:jeremi.kaczmarczyk@gmail.com
+URL:https://jeremi.codes
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/jknthn/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/jer.emi/
+X-SOCIALPROFILE;TYPE=twitter:https://x.com/jeremi_codes
+X-SOCIALPROFILE;TYPE=github:https://github.com/jknthn
+ADR;TYPE=WORK:;;;Wrocław;;;Poland
+END:VCARD
